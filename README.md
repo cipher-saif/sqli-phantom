@@ -26,35 +26,37 @@
 
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Authorized+Penetration+Testing+Only;60%2B+Payloads+%C2%B7+7+Attack+Categories;Error-Based+%C2%B7+Blind+%C2%B7+Time-Based+Detection" alt="Typing SVG" />
+</div>
+
+<br>
+
 ---
 
 <div align="center">
 
-```
-═══════════════════════════════════════════════
-              OVERVIEW
-═══════════════════════════════════════════════
-```
+## ══════════════════════════════════════════════════════
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OVERVIEW
+## ══════════════════════════════════════════════════════
 
 </div>
-
-## Overview
 
 SQLi Phantom is a purpose-built SQL injection scanner featuring a cartoon-cyber aesthetic Streamlit GUI. It probes web application input fields using 60+ crafted payloads across seven attack categories, detects vulnerability indicators via error-based, boolean-blind, and time-based techniques, and streams live results with confidence scoring. Built for authorized penetration testing only — validated against PortSwigger Web Security Academy labs, DVWA, and WebGoat.
 
+<br>
+
 ---
 
 <div align="center">
 
-```
-═══════════════════════════════════════════════
-              OBJECTIVES
-═══════════════════════════════════════════════
-```
+## ══════════════════════════════════════════════════════
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OBJECTIVES
+## ══════════════════════════════════════════════════════
 
 </div>
-
-## Objectives
 
 - Automate detection of SQL injection vulnerabilities across GET and POST parameters
 - Implement multi-threaded concurrent scanning with configurable rate limiting
@@ -62,48 +64,44 @@ SQLi Phantom is a purpose-built SQL injection scanner featuring a cartoon-cyber 
 - Support export of scan results in JSON, CSV, and plain-text log formats
 - Enforce ethical usage through session-scoped targeting and legal-use guardrails
 
+<br>
+
 ---
 
 <div align="center">
 
-```
-═══════════════════════════════════════════════
-         TOOLS & TECHNOLOGIES
-═══════════════════════════════════════════════
-```
+## ══════════════════════════════════════════════════════
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TOOLS & TECHNOLOGIES
+## ══════════════════════════════════════════════════════
 
 </div>
-
-## Tools & Technologies
 
 <div align="center">
 
 | Layer | Technology |
-|---|---|
+|:---|:---|
 | Language | ![Python](https://img.shields.io/badge/Python%203.11-3776AB?style=flat-square&logo=python&logoColor=white) |
 | GUI Framework | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 | HTTP Client | ![Requests](https://img.shields.io/badge/Requests-007EC6?style=flat-square&logo=python&logoColor=white) |
 | Concurrency | ![Threading](https://img.shields.io/badge/ThreadPoolExecutor-6E40C9?style=flat-square&logo=python&logoColor=white) |
 | Pattern Matching | ![Regex](https://img.shields.io/badge/re%20%28Regex%29-306998?style=flat-square&logo=python&logoColor=white) |
-| Data Export | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) ![CSV](https://img.shields.io/badge/CSV-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
-| Styling | ![CSS3](https://img.shields.io/badge/Custom%20CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat-square&logo=google&logoColor=white) |
-| Test Targets | ![PortSwigger](https://img.shields.io/badge/PortSwigger%20Labs-FF6633?style=flat-square&logo=hackaday&logoColor=white) ![DVWA](https://img.shields.io/badge/DVWA-8B0000?style=flat-square&logo=linux&logoColor=white) |
+| Data Export | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) &nbsp; ![CSV](https://img.shields.io/badge/CSV-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| Styling | ![CSS3](https://img.shields.io/badge/Custom%20CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) &nbsp; ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat-square&logo=google&logoColor=white) |
+| Test Targets | ![PortSwigger](https://img.shields.io/badge/PortSwigger%20Labs-FF6633?style=flat-square&logo=hackaday&logoColor=white) &nbsp; ![DVWA](https://img.shields.io/badge/DVWA-8B0000?style=flat-square&logo=linux&logoColor=white) |
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-```
-═══════════════════════════════════════════════
-           PROJECT STRUCTURE
-═══════════════════════════════════════════════
-```
+## ══════════════════════════════════════════════════════
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PROJECT STRUCTURE
+## ══════════════════════════════════════════════════════
 
 </div>
-
-## Project Structure
 
 ```
 SQLi-Phantom/
@@ -122,19 +120,17 @@ SQLi-Phantom/
     └── csv-logs.png
 ```
 
+<br>
+
 ---
 
 <div align="center">
 
-```
-═══════════════════════════════════════════════
-       METHODOLOGY & IMPLEMENTATION
-═══════════════════════════════════════════════
-```
+## ══════════════════════════════════════════════════════
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; METHODOLOGY & IMPLEMENTATION
+## ══════════════════════════════════════════════════════
 
 </div>
-
-## Methodology & Implementation
 
 ### 1. Payload Engine
 
@@ -156,89 +152,127 @@ Three `queue.Queue` instances pipe progress values, log entries, and vulnerabili
 
 Each finding is assigned a confidence tier — **High** for confirmed SQL error strings, **Medium** for measurable time delays, and **Low** for statistically significant content changes — displayed as color-coded chips in the results dashboard.
 
+<br>
+
 ---
 
 <div align="center">
 
-```
-═══════════════════════════════════════════════
-         RESULTS & SCREENSHOTS
-═══════════════════════════════════════════════
-```
+## ══════════════════════════════════════════════════════
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RESULTS & SCREENSHOTS
+## ══════════════════════════════════════════════════════
 
 </div>
-
-## Results & Screenshots
 
 <br>
 
 ### Configuration Panel
 
+<div align="center">
+<table><tr><td>
+
 ![Config Panel](Screenshots/config-panel.png)
+
+</td></tr></table>
+</div>
 
 The sidebar configuration panel allows full control over target URL, HTTP method, parameter injection points, payload category selection, concurrency, rate limiting, and timeout — all styled with the cartoon-cyber theme using Orbitron, Rajdhani, and VT323 typefaces.
 
----
+<br>
 
 ### Target Scan Setup
 
+<div align="center">
+<table><tr><td>
+
 ![Target Scan](Screenshots/target-scan.png)
+
+</td></tr></table>
+</div>
 
 The scan tab renders a pre-flight summary of the configured target with injected parameters displayed as neon chips, alongside a runtime overview of concurrency and probe count before launch.
 
----
+<br>
 
 ### Scan Process — Live Log
 
+<div align="center">
+<table><tr><td>
+
 ![Scan Process](Screenshots/scan-process.png)
+
+</td></tr></table>
+</div>
 
 The live log terminal streams real-time output from the background scanner thread, colour-coded by severity — cyan for informational entries, amber for warnings, and red for confirmed vulnerability hits.
 
----
+<br>
 
 ### Results Section
 
+<div align="center">
+<table><tr><td>
+
 ![Results Section](Screenshots/results-section.png)
+
+</td></tr></table>
+</div>
 
 Findings are grouped by parameter and rendered as confidence-scored cards showing the payload, indicator type, HTTP status code, response time, and extracted evidence snippet from the server response body.
 
----
+<br>
 
 ### Vulnerabilities Detected
 
+<div align="center">
+<table><tr><td>
+
 ![Vulnerabilities Detected](Screenshots/vulnerabilities-detected.png)
+
+</td></tr></table>
+</div>
 
 High-confidence findings are highlighted in critical red cards with an automated `VULNERABLE` badge, displaying the exact injection string, detection method, and server-side evidence confirming exploitability.
 
----
+<br>
 
 ### Export Report
 
+<div align="center">
+<table><tr><td>
+
 ![Export Report](Screenshots/export-report.png)
+
+</td></tr></table>
+</div>
 
 The Export tab provides one-click downloads for a structured JSON report with full scan metadata, a flat CSV for spreadsheet analysis, and a plain-text log file for archiving or sharing.
 
----
+<br>
 
 ### CSV Logs
 
+<div align="center">
+<table><tr><td>
+
 ![CSV Logs](Screenshots/csv-logs.png)
 
+</td></tr></table>
+</div>
+
 Exported CSV output containing timestamped findings with columns for parameter, payload, confidence tier, indicator type, response time, HTTP status code, and evidence — ready for inclusion in a formal penetration testing report.
+
+<br>
 
 ---
 
 <div align="center">
 
-```
-═══════════════════════════════════════════════
-          COMMANDS & SETUP
-═══════════════════════════════════════════════
-```
+## ══════════════════════════════════════════════════════
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; COMMANDS & SETUP
+## ══════════════════════════════════════════════════════
 
 </div>
-
-## Commands & Setup
 
 **Install dependencies**
 ```bash
@@ -275,43 +309,41 @@ Method  →  GET
 admin'--
 ```
 
+<br>
+
 ---
 
 <div align="center">
 
-```
-═══════════════════════════════════════════════
-              CONCLUSION
-═══════════════════════════════════════════════
-```
+## ══════════════════════════════════════════════════════
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CONCLUSION
+## ══════════════════════════════════════════════════════
 
 </div>
-
-## Conclusion
 
 SQLi Phantom demonstrates a full-cycle implementation of a SQL injection scanner — from payload construction and multi-threaded dispatch through real-time result streaming and structured report generation. The project reinforced core penetration testing methodology, regex-based response analysis, Python concurrency patterns, and the importance of ethical scope definition. Validated across PortSwigger Web Security Academy labs and DVWA, the tool successfully identifies error-based, boolean-blind, and time-based injection vulnerabilities with confidence scoring. It serves as a practical foundation for further extension into cookie-based authentication handling, automatic form crawling, and second-order injection detection.
 
+<br>
+
 ---
 
 <div align="center">
 
-```
-═══════════════════════════════════════════════
-             LEGAL NOTICE
-═══════════════════════════════════════════════
-```
+## ══════════════════════════════════════════════════════
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LEGAL NOTICE
+## ══════════════════════════════════════════════════════
 
 </div>
 
-## Legal Notice
-
 This tool is developed strictly for authorized security testing and educational purposes. Only use against systems you own or have explicit written permission to test. Unauthorized scanning of any system is illegal and unethical. The author assumes no liability for misuse.
+
+<br>
 
 ---
 
 <div align="center">
 
-Developed as part of a personal cybersecurity tooling project
+Developed as part of a cybersecurity tooling project at my SyntecxHub internship.
 
 <br>
 
