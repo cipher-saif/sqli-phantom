@@ -39,7 +39,7 @@
 <div align="center">
 
 ## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OVERVIEW
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OVERVIEW OF THE PROJECT
 ## ══════════════════════════════════════════════════════
 
 </div>
@@ -53,7 +53,7 @@ SQLi Phantom is a purpose-built SQL injection scanner featuring a cartoon-cyber 
 <div align="center">
 
 ## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OBJECTIVES
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OBJECTIVES OF THE PROJECT
 ## ══════════════════════════════════════════════════════
 
 </div>
@@ -71,7 +71,7 @@ SQLi Phantom is a purpose-built SQL injection scanner featuring a cartoon-cyber 
 <div align="center">
 
 ## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TOOLS & TECHNOLOGIES
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TOOLS & TECHNOLOGIES USED
 ## ══════════════════════════════════════════════════════
 
 </div>
@@ -98,7 +98,7 @@ SQLi Phantom is a purpose-built SQL injection scanner featuring a cartoon-cyber 
 <div align="center">
 
 ## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PROJECT STRUCTURE
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PROJECT STRUCTURE APPLIED
 ## ══════════════════════════════════════════════════════
 
 </div>
@@ -127,7 +127,7 @@ SQLi-Phantom/
 <div align="center">
 
 ## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; METHODOLOGY & IMPLEMENTATION
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; METHODOLOGIES & IMPLEMENTATION
 ## ══════════════════════════════════════════════════════
 
 </div>
@@ -269,7 +269,7 @@ Exported CSV output containing timestamped findings with columns for parameter, 
 <div align="center">
 
 ## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; COMMANDS & SETUP
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; COMMANDS & SETUP GUIDE
 ## ══════════════════════════════════════════════════════
 
 </div>
@@ -316,7 +316,7 @@ admin'--
 <div align="center">
 
 ## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CONCLUSION
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CONCLUSION OF THE PROJECT
 ## ══════════════════════════════════════════════════════
 
 </div>
@@ -330,7 +330,7 @@ SQLi Phantom demonstrates a full-cycle implementation of a SQL injection scanner
 <div align="center">
 
 ## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LEGAL NOTICE
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LEGAL NOTICE (NOT TO BE IGNORED)
 ## ══════════════════════════════════════════════════════
 
 </div>
