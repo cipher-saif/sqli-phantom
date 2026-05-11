@@ -24,39 +24,29 @@
 ![DVWA](https://img.shields.io/badge/DVWA-8B0000?style=for-the-badge&logo=linux&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Authorized+Penetration+Testing+Only;60%2B+Payloads+%C2%B7+7+Attack+Categories;Error-Based+%C2%B7+Blind+%C2%B7+Time-Based+Detection" alt="Typing SVG" />
+
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Authorized+Penetration+Testing+Only;60%2B+Payloads+%C2%B7+7+Attack+Categories;Error-Based+%C2%B7+Blind+%C2%B7+Time-Based+Detection" alt="Typing SVG" />
-</div>
+<!---------------------------------------------------------------------------->
+
+<div align="center"><hr><h3>◈ &nbsp; OVERVIEW &nbsp; ◈</h3><hr></div>
 
 <br>
-
----
-
-<div align="center">
-
-## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OVERVIEW OF THE PROJECT
-## ══════════════════════════════════════════════════════
-
-</div>
 
 SQLi Phantom is a purpose-built SQL injection scanner featuring a cartoon-cyber aesthetic Streamlit GUI. It probes web application input fields using 60+ crafted payloads across seven attack categories, detects vulnerability indicators via error-based, boolean-blind, and time-based techniques, and streams live results with confidence scoring. Built for authorized penetration testing only — validated against PortSwigger Web Security Academy labs, DVWA, and WebGoat.
 
 <br>
 
----
+<!---------------------------------------------------------------------------->
 
-<div align="center">
+<div align="center"><hr><h3>◈ &nbsp; OBJECTIVES &nbsp; ◈</h3><hr></div>
 
-## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OBJECTIVES OF THE PROJECT
-## ══════════════════════════════════════════════════════
-
-</div>
+<br>
 
 - Automate detection of SQL injection vulnerabilities across GET and POST parameters
 - Implement multi-threaded concurrent scanning with configurable rate limiting
@@ -66,15 +56,11 @@ SQLi Phantom is a purpose-built SQL injection scanner featuring a cartoon-cyber 
 
 <br>
 
----
+<!---------------------------------------------------------------------------->
 
-<div align="center">
+<div align="center"><hr><h3>◈ &nbsp; TOOLS & TECHNOLOGIES &nbsp; ◈</h3><hr></div>
 
-## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TOOLS & TECHNOLOGIES USED
-## ══════════════════════════════════════════════════════
-
-</div>
+<br>
 
 <div align="center">
 
@@ -93,15 +79,11 @@ SQLi Phantom is a purpose-built SQL injection scanner featuring a cartoon-cyber 
 
 <br>
 
----
+<!---------------------------------------------------------------------------->
 
-<div align="center">
+<div align="center"><hr><h3>◈ &nbsp; PROJECT STRUCTURE &nbsp; ◈</h3><hr></div>
 
-## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PROJECT STRUCTURE APPLIED
-## ══════════════════════════════════════════════════════
-
-</div>
+<br>
 
 ```
 SQLi-Phantom/
@@ -122,15 +104,11 @@ SQLi-Phantom/
 
 <br>
 
----
+<!---------------------------------------------------------------------------->
 
-<div align="center">
+<div align="center"><hr><h3>◈ &nbsp; METHODOLOGY & IMPLEMENTATION &nbsp; ◈</h3><hr></div>
 
-## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; METHODOLOGIES & IMPLEMENTATION
-## ══════════════════════════════════════════════════════
-
-</div>
+<br>
 
 ### 1. Payload Engine
 
@@ -154,15 +132,9 @@ Each finding is assigned a confidence tier — **High** for confirmed SQL error 
 
 <br>
 
----
+<!---------------------------------------------------------------------------->
 
-<div align="center">
-
-## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RESULTS & SCREENSHOTS
-## ══════════════════════════════════════════════════════
-
-</div>
+<div align="center"><hr><h3>◈ &nbsp; RESULTS & SCREENSHOTS &nbsp; ◈</h3><hr></div>
 
 <br>
 
@@ -176,7 +148,7 @@ Each finding is assigned a confidence tier — **High** for confirmed SQL error 
 </td></tr></table>
 </div>
 
-The sidebar configuration panel allows full control over target URL, HTTP method, parameter injection points, payload category selection, concurrency, rate limiting, and timeout — all styled with the cartoon-cyber theme using Orbitron, Rajdhani, and VT323 typefaces.
+> **Configuration Panel** — The sidebar allows full control over target URL, HTTP method, parameter injection points, payload category selection, concurrency, rate limiting, and timeout — styled with Orbitron, Rajdhani, and VT323 typefaces.
 
 <br>
 
@@ -190,7 +162,7 @@ The sidebar configuration panel allows full control over target URL, HTTP method
 </td></tr></table>
 </div>
 
-The scan tab renders a pre-flight summary of the configured target with injected parameters displayed as neon chips, alongside a runtime overview of concurrency and probe count before launch.
+> **Target Scan Setup** — The scan tab renders a pre-flight summary of the configured target with injected parameters displayed as neon chips, alongside a runtime overview of concurrency and probe count before launch.
 
 <br>
 
@@ -204,7 +176,7 @@ The scan tab renders a pre-flight summary of the configured target with injected
 </td></tr></table>
 </div>
 
-The live log terminal streams real-time output from the background scanner thread, colour-coded by severity — cyan for informational entries, amber for warnings, and red for confirmed vulnerability hits.
+> **Live Log Terminal** — Streams real-time output from the background scanner thread, colour-coded by severity — cyan for informational entries, amber for warnings, and red for confirmed vulnerability hits.
 
 <br>
 
@@ -218,7 +190,7 @@ The live log terminal streams real-time output from the background scanner threa
 </td></tr></table>
 </div>
 
-Findings are grouped by parameter and rendered as confidence-scored cards showing the payload, indicator type, HTTP status code, response time, and extracted evidence snippet from the server response body.
+> **Results Dashboard** — Findings are grouped by parameter and rendered as confidence-scored cards showing the payload, indicator type, HTTP status code, response time, and extracted evidence snippet from the server response body.
 
 <br>
 
@@ -232,7 +204,7 @@ Findings are grouped by parameter and rendered as confidence-scored cards showin
 </td></tr></table>
 </div>
 
-High-confidence findings are highlighted in critical red cards with an automated `VULNERABLE` badge, displaying the exact injection string, detection method, and server-side evidence confirming exploitability.
+> **Vulnerabilities Detected** — High-confidence findings are highlighted in critical red cards with an automated `VULNERABLE` badge, displaying the exact injection string, detection method, and server-side evidence confirming exploitability.
 
 <br>
 
@@ -246,7 +218,7 @@ High-confidence findings are highlighted in critical red cards with an automated
 </td></tr></table>
 </div>
 
-The Export tab provides one-click downloads for a structured JSON report with full scan metadata, a flat CSV for spreadsheet analysis, and a plain-text log file for archiving or sharing.
+> **Export Report** — One-click downloads for a structured JSON report with full scan metadata, a flat CSV for spreadsheet analysis, and a plain-text log file for archiving or sharing.
 
 <br>
 
@@ -260,19 +232,15 @@ The Export tab provides one-click downloads for a structured JSON report with fu
 </td></tr></table>
 </div>
 
-Exported CSV output containing timestamped findings with columns for parameter, payload, confidence tier, indicator type, response time, HTTP status code, and evidence — ready for inclusion in a formal penetration testing report.
+> **CSV Logs** — Timestamped findings with columns for parameter, payload, confidence tier, indicator type, response time, HTTP status code, and evidence — ready for inclusion in a formal penetration testing report.
 
 <br>
 
----
+<!---------------------------------------------------------------------------->
 
-<div align="center">
+<div align="center"><hr><h3>◈ &nbsp; COMMANDS & SETUP &nbsp; ◈</h3><hr></div>
 
-## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; COMMANDS & SETUP GUIDE
-## ══════════════════════════════════════════════════════
-
-</div>
+<br>
 
 **Install dependencies**
 ```bash
@@ -311,29 +279,21 @@ admin'--
 
 <br>
 
----
+<!---------------------------------------------------------------------------->
 
-<div align="center">
+<div align="center"><hr><h3>◈ &nbsp; CONCLUSION &nbsp; ◈</h3><hr></div>
 
-## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CONCLUSION OF THE PROJECT
-## ══════════════════════════════════════════════════════
-
-</div>
+<br>
 
 SQLi Phantom demonstrates a full-cycle implementation of a SQL injection scanner — from payload construction and multi-threaded dispatch through real-time result streaming and structured report generation. The project reinforced core penetration testing methodology, regex-based response analysis, Python concurrency patterns, and the importance of ethical scope definition. Validated across PortSwigger Web Security Academy labs and DVWA, the tool successfully identifies error-based, boolean-blind, and time-based injection vulnerabilities with confidence scoring. It serves as a practical foundation for further extension into cookie-based authentication handling, automatic form crawling, and second-order injection detection.
 
 <br>
 
----
+<!---------------------------------------------------------------------------->
 
-<div align="center">
+<div align="center"><hr><h3>◈ &nbsp; LEGAL NOTICE &nbsp; ◈</h3><hr></div>
 
-## ══════════════════════════════════════════════════════
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LEGAL NOTICE (NOT TO BE IGNORED)
-## ══════════════════════════════════════════════════════
-
-</div>
+<br>
 
 This tool is developed strictly for authorized security testing and educational purposes. Only use against systems you own or have explicit written permission to test. Unauthorized scanning of any system is illegal and unethical. The author assumes no liability for misuse.
 
@@ -343,7 +303,7 @@ This tool is developed strictly for authorized security testing and educational 
 
 <div align="center">
 
-Developed as part of a cybersecurity tooling project at my SyntecxHub internship.
+Developed as part of a personal cybersecurity tooling project
 
 <br>
 
